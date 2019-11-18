@@ -60,7 +60,7 @@ class Doge extends StatelessWidget {
                     '+48 123 456 789',
                     style: TextStyle(
                       fontFamily: 'Lato',
-                      fontSize: 25.0,
+                      fontSize: 18.0,
                     ),
                   ),
                 )
