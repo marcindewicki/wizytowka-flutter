@@ -76,7 +76,7 @@ class Doge extends StatelessWidget {
                   size: 45.0,
                   color: Colors.teal[900],),
                   title: Text(
-                    'Twoja@Stara.Zapierdala',
+                    'Przykladowy@Email',
                     style: TextStyle(
                       fontFamily: 'Lato',
                       fontSize: 18.0,
