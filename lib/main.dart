@@ -37,7 +37,6 @@ class Doge extends StatelessWidget {
                 fontFamily: 'Lato',
                 fontSize: 25.0,
                 color: Colors.white,
-                letterSpacing: 2.0,
               ),
             ),
             SizedBox(
