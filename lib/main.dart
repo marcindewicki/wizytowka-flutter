@@ -32,7 +32,7 @@ class Doge extends StatelessWidget {
               ),
             ),
             Text(
-              'Przykladowy tekst',
+              'Przykladowy tekst XD',
               style: TextStyle(
                 fontFamily: 'Lato',
                 fontSize: 25.0,
